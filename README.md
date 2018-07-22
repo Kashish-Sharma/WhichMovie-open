@@ -14,3 +14,11 @@ TO-DO's
 ---------
 * Include pagination.
 * Add filters and search.
+
+Screenshots
+-----------
+<p float="left">
+<img src="https://github.com/Kashish-Sharma/WhichMovie-open/blob/master/Screenshots/Screenshot_20180722-154344.jpg" alt="Upcoming" width="250dp" height="400dp"> 
+<img src="https://github.com/Kashish-Sharma/WhichMovie-open/blob/master/Screenshots/Screenshot_20180722-154356.jpg" alt="Top Rated" width="250dp" height="400dp">
+<img src="https://github.com/Kashish-Sharma/WhichMovie-open/blob/master/Screenshots/Screenshot_20180722-154408.jpg" alt="Details" width="250dp" height="400dp">
+</p>
