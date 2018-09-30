@@ -2,7 +2,7 @@
 Before you continue
 ------
 * The App is still under development so this may contain some errors.<br>
-* Generate and Add your own TheMovieDb api key ([link](https://developers.themoviedb.org/3/getting-started/introduction)) in Constants class under utils folder ([link](https://github.com/Kashish-Sharma/WhichMovie-open/blob/master/app/src/main/java/app/com/moviedb/Utils/Constants.java)). <br>
+* Generate and Add your own TheMovieDb api [key](https://developers.themoviedb.org/3/getting-started/introduction) in Constants class under utils [folder](https://github.com/Kashish-Sharma/WhichMovie-open/blob/master/app/src/main/java/app/com/moviedb/Utils/Constants.java). <br>
 
 
 Description
@@ -12,8 +12,10 @@ Description
 
 TO-DO's
 ---------
-* Include pagination.
-* Add filters and search.
+* ~~Include pagination.~~
+* ~~Add filters and search.~~<br>
+
+These todo's are incorporated in my another project [TheMovieDBApp](https://github.com/Kashish-Sharma/TheMovieDBApp)
 
 Screenshots
 -----------
