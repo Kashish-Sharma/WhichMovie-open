@@ -15,7 +15,7 @@ TO-DO's
 * ~~Include pagination.~~
 * ~~Add filters and search.~~<br>
 
-These todo's are incorporated in my another project [TheMovieDBApp](https://github.com/Kashish-Sharma/TheMovieDBApp)
+These todo's are added in my another project [TheMovieDBApp](https://github.com/Kashish-Sharma/TheMovieDBApp)
 
 Screenshots
 -----------
