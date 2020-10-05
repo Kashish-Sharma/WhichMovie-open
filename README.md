@@ -10,12 +10,7 @@ Description
 * WhichMovie is a simple app with MVP, RxJava2 and Retrofit.<br>
 * TheMovieDb API is used to fetch movie details.
 
-TO-DO's
----------
-* ~~Include pagination.~~
-* ~~Add filters and search.~~<br>
-
-These todo's are added in my another project [TheMovieDBApp](https://github.com/Kashish-Sharma/TheMovieDBApp)
+Checkout my another project [TheMovieDBApp](https://github.com/Kashish-Sharma/TheMovieDBApp)
 
 Screenshots
 -----------
